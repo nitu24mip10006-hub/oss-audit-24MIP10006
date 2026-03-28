@@ -37,3 +37,10 @@ Takes user input and generates a personalized manifesto.
 
 1. Open terminal in the project folder  
 2. Run scripts using:
+   ./script1.sh
+   ./script2.sh
+   ./script3.sh
+   ./script4.sh
+   ./script5.sh
+  
+   
