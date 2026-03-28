@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Your Name  
-Roll Number: Your Roll Number  
+Name: NITU
+Roll Number: 24MIP10006
 
 ## Chosen Software
 Python
