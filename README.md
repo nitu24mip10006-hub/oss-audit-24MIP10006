@@ -25,6 +25,14 @@ Creates a log file and counts error messages.
 ### Script 5: Open Source Manifesto Generator
 Takes user input and generates a personalized manifesto.
 
+## Screenshots
+
+![Script 1](ss1.png)
+![Script 2](ss2.png)
+![Script 3](ss3.png)
+![Script 4](ss4.png)
+![Script 5](ss5.png)
+
 ## How to Run Scripts
 
 1. Open terminal in the project folder  
